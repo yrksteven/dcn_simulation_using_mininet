@@ -1,6 +1,8 @@
-This is the project for the USTC course CS05112, which was finished last year.
+
 
 # dcn_simulation_using_mininet
+This is the project for the USTC course CS05112, which was finished in 2015 fall semester.
+
 Datacenter Network Simulation using Mininet
 
 Objective:
